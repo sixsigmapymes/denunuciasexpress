@@ -7,10 +7,3 @@ predectivo , utilizando  AI/BI para
 implementar mejoras continuas en los 
 proceso
 
-MODELO
-
-  PERSONA
-  USUARIO
-  DATO
-  INFO-ADICIONAL
-  DATO-BI
